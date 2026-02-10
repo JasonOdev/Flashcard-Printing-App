@@ -180,5 +180,5 @@ Only `lesson`, `front`, and `back` are required for import. Other fields are opt
 
 ## License
 
-This software is provided as-is for personal and educational use.
+GPL-3.0
 
