@@ -2,7 +2,9 @@
 
 A desktop application for creating, managing, and printing double-sided flashcards.
 
-## 
+## To Update:
+First make a copy the flashcards.db file and put it in another folder, as a backup just in case. Then put the new FlashcardAppV_.exe file into the same place you had the older version. Everything should work fine. If it does, delete the older version of the app as well as the backup copy of the flashcard.db.
+
 
 ## \---Features---
 
